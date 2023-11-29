@@ -1,0 +1,4 @@
+_F_qItself/0-#14 __F_qQuaternionNorms/0-#62 _F_Pose/1-box _F_PoseRel/1-box-gripper __F_PositionDiff/0-gripper-box __F_ScalarProduct/0-gripper-box _F_Vector/0-gripper 
+ 4.14303, 1.24012e-06, 2.66015e-05, 0, 5.02315e-07, 4.12976e-05, 2.33143e-05,
+ 2.83746, 0, 0, 2.13753e-05, 0, 0, 0,
+ 4.50028e-31, 0, 0, 0, 0, 0, 0 
